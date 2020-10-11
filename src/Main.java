@@ -8,7 +8,7 @@ import java.util.Random;
 /**
  * <strong>Owen Bean Rainbow Break Out</strong>
  * <p>
- * The object of the game is to take down all the breaks without
+ * The object of the game is to take down all the bricks without
  * losing all your lives. There are special colored bricks that changes
  * the ball speed to make it more challenging to play. This breakout game
  * comes with gravity, to make it more challenging to play.
