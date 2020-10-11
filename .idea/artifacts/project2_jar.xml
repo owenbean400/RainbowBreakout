@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="project2:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/rainbow_breakout_owen_bean</output-path>
+    <root id="archive" name="project2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/OneDrive/Desktop/rainbow_breakout_owen_bean/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="project2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/acm.jar" path-in-jar="/" />
+      <element id="library" level="project" name="acm" />
+      <element id="library" level="application" name="javafx-sdk-15" />
+    </root>
+  </artifact>
+</component>
